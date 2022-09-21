@@ -27,5 +27,5 @@ To compare the MechaCar to the competition a statistical study would need to be 
 - The metric to test is fuel efficiency.
 - The null hypothesis is that MechaCar and its competitors fuel efficiency means are equal. 
 - The alternative hypothesis is that MechaCars fuel efficiency mean is different from its competitors.
-- To test the hypothesis a one-way ANOVA test will be performed, this will show if the means of fuel efficiency from MechaCar and different competitors are statistically different or not
+- To test the hypothesis a one-way ANOVA test will be performed, this will show if the means of fuel efficiency from MechaCar and different competitors are statistically different or not. The dependent variable will be fuel efficiency and the independent variable will be car manufacturer.
 - The data needed to perform this test will be fuel efficiency numbers for MechaCars as well its competitors cars.
